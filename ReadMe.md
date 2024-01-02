@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Sullara<br>I’m a Systems Analysis and Development student<br>👾 I like to code and be creative with logic
+👋 Hi, I’m @Sullara<br>🤖I’m a Systems Analysis and Development student<br>👾 I like to code and be creative with logic
 
 
 # 💻 Tech Stack:
