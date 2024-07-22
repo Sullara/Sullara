@@ -1,4 +1,6 @@
-<h2 align="left">Hi 🌼! I'm Lara</h2>
+<h1 align="left">Olá, me chamo Lara! 🌼</h1>
+<h3 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas. 👩‍💻</h3>
+<h3 align="left">Estou estudando Html, CSS, JavaScript e Python. 📖</h3>
 
 ###
 
